@@ -1,6 +1,6 @@
 <p align="center">
     <img src="https://github.com/rose-pine/rose-pine-theme/raw/main/assets/icon.png" width="80" />
-    <h2 align="center">Rosé Pine for App</h2>
+    <h2 align="center">Rosé Pine for Helix</h2>
 </p>
 
 <p align="center">All natural pine, faux fur and a bit of soho vibes for the classy minimalist</p>
@@ -13,23 +13,19 @@
 
 ## Usage
 
-1. Open App
-2. Under settings, import `rose-pine.theme`
-3. Select `Rosé Pine` from the themes dropdown
+1. `:theme rose_pine` or `:theme rose_pine_dawn`
+
+That's it!
 
 ## Gallery
 
-![Rosé Pine with App](assets/template.png)
+![image](https://user-images.githubusercontent.com/44733677/150023689-852452c4-272f-467b-b8dd-9b31f440630c.png)
+![image](https://user-images.githubusercontent.com/44733677/150023734-f5d3292d-082c-4dfb-8d25-f3dd8d5b2bd7.png)
 
 ## Thanks to
 
-- [You, it's you!](https://github.com/<username>)
+**PLEASE NOTE THAT I DID NOT MAKE THESE!**
+I actually found that these existed after I found out about the Helix editor. This repo is just to acknowledge the authors.
 
-## Style guide
-
-> Be sure to remove this section 😌
-
-- Lowercase meta files, eg. `readme.md`
-- Repo name should be the simplest version of the app name, eg. iterm instead of iTerm2
-- Format repo description as "Soho vibes for App"
-- Generate and upload social image via [Rosé Pine Images](https://rose-pine-images.vercel.app)
+- [RayGervais](https://github.com/raygervais)
+- [ChrisHa](https://github.com/chunghh
