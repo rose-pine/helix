@@ -13,17 +13,15 @@
 
 ## Usage
 
-1. `:theme rose_pine` or `:theme rose_pine_dawn`
-
-That's it!
-
+```sh
+:theme rose_pine
+# or
+:theme rose_pine_dawn
+```
 
 ## Thanks to
 
-**PLEASE NOTE THAT I DID NOT MAKE THESE!**
-
-
-I actually found that these existed after I found out about the Helix editor. This repo is just to acknowledge the authors.
+> This theme was found in the wild and not made by the Rosé Pine team
 
 - [RayGervais](https://github.com/raygervais)
 - [ChrisHa](https://github.com/chunghh)
