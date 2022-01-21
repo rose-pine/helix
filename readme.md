@@ -31,3 +31,9 @@
 ![image](https://user-images.githubusercontent.com/44733677/150023689-852452c4-272f-467b-b8dd-9b31f440630c.png)
 ![image](https://user-images.githubusercontent.com/44733677/150023734-f5d3292d-082c-4dfb-8d25-f3dd8d5b2bd7.png)
 
+## Files
+
+> These exist in the official helix repo
+
+- https://github.com/helix-editor/helix/blob/master/runtime/themes/rose_pine.toml
+- https://github.com/helix-editor/helix/blob/master/runtime/themes/rose_pine_dawn.toml
