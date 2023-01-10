@@ -13,27 +13,29 @@
 
 ## Usage
 
-```sh
-:theme rose_pine
-# or
-:theme rose_pine_dawn
+Rosé Pine is included in Helix. Add the desired variant to your Helix config, e.g. `~/.config/helix/config.toml`:
+
+```ini
+theme rose_pine
+# or other variant
+theme rose_pine_moon
+theme rose_pine_dawn
+````
+
+Or preview for your current session:
+
+```ini
+:theme rose_pine<_moon,_dawn>
 ```
-
-## Thanks to
-
-> This theme was found in the wild and not made by the Rosé Pine team
-
-- [RayGervais](https://github.com/raygervais)
-- [ChrisHa](https://github.com/chunghh)
 
 ## Gallery
 
 ![image](https://user-images.githubusercontent.com/44733677/150023689-852452c4-272f-467b-b8dd-9b31f440630c.png)
 ![image](https://user-images.githubusercontent.com/44733677/150023734-f5d3292d-082c-4dfb-8d25-f3dd8d5b2bd7.png)
 
-## Files
 
-> These exist in the official helix repo
+## Thanks to
 
-- https://github.com/helix-editor/helix/blob/master/runtime/themes/rose_pine.toml
-- https://github.com/helix-editor/helix/blob/master/runtime/themes/rose_pine_dawn.toml
+- [RayGervais](https://github.com/raygervais)
+- [ChrisHa](https://github.com/chunghh)
+- [cor](https://github.com/cor)
