@@ -30,9 +30,17 @@ Or preview for your current session:
 
 ## Gallery
 
-![image](https://user-images.githubusercontent.com/44733677/150023689-852452c4-272f-467b-b8dd-9b31f440630c.png)
-![image](https://user-images.githubusercontent.com/44733677/150023734-f5d3292d-082c-4dfb-8d25-f3dd8d5b2bd7.png)
+**Rosé Pine**
 
+![Rosé Pine for Helix](https://user-images.githubusercontent.com/47515065/211688566-dae32a99-ae01-433a-a9b4-9bcd79927db3.png)
+
+**Rosé Pine Moon**
+
+![Rosé Pine Moon for Helix](https://user-images.githubusercontent.com/47515065/211688688-f0c80661-4d60-4b1f-8dce-af4c665162a3.png)
+
+**Rosé Pine Dawn**
+
+![Rosé Pine Dawn for Helix](https://user-images.githubusercontent.com/47515065/211688737-b179e80f-1d66-4cae-b39b-bc5c1194f43d.png)
 
 ## Thanks to
 
