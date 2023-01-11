@@ -7,10 +7,10 @@
 "ui.background" = { bg = "base" }
 "ui.background.separator" = { bg = "base" }
 
-"ui.cursor" = { fg = "text", bg = "muted" }
+"ui.cursor" = { fg = "text", bg = "highlight_high" }
 # "ui.cursor.select" = {}
-"ui.cursor.match" = { bg = "highlight_med" }
-# "ui.cursor.primary" = {}
+"ui.cursor.match" = { fg = "text", bg = "highlight_med" }
+"ui.cursor.primary" = { fg = "text", bg = "muted"}
 
 # "ui.gutter" = {}
 # "ui.gutter.selected" = {}
@@ -47,7 +47,7 @@
 "ui.selection.primary" = { bg = "highlight_med" }
 
 "ui.cursorline.primary" = { bg = "highlight_low" }
-# "ui.cursorline.secondary" = {}
+"ui.cursorline.secondary" = { bg = "surface" }
 
 "warning" = "gold"
 "error" = "love"
