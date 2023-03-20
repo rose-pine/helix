@@ -20,7 +20,7 @@ theme = "rose_pine"
 # or other variant
 theme = "rose_pine_moon"
 theme = "rose_pine_dawn"
-````
+```
 
 Or preview for your current session:
 
