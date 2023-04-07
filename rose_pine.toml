@@ -36,7 +36,7 @@
 "ui.text.info" = { fg = "subtle" }
 
 "ui.virtual.ruler" = { bg = "overlay" }
-"ui.virtual.whitespace" = { fg = "highlight_low" }
+"ui.virtual.whitespace" = { fg = "subtle" }
 "ui.virtual.indent-guide" = { fg = "muted" }
 "ui.virtual.inlay-hint" = { fg = "subtle" }
 
