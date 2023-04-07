@@ -61,6 +61,7 @@
 "diagnostic.info" = { underline = { color = "foam", style = "curl" } }
 "diagnostic.warning" = { underline = { color = "gold", style = "curl" } }
 "diagnostic.error" = { underline = { color = "love", style = "curl" } }
+"special" = "rose"
 
 "attribute" = "iris"
 
