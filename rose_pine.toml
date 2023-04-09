@@ -32,7 +32,7 @@
 "ui.help" = { fg = "subtle", bg = "overlay" }
 
 "ui.text" = { fg = "text" }
-# "ui.text.focus" = {}
+"ui.text.focus" = { bg = "overlay" }
 "ui.text.info" = { fg = "subtle" }
 
 "ui.virtual.ruler" = { bg = "overlay" }
