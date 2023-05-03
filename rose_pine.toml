@@ -86,7 +86,7 @@
 # "string.special.url" = ""
 # "string.special.symbol" = ""
 
-"comment" = { fg = "muted", modifiers = ["italic"]}
+"comment" = { fg = "muted_low", modifiers = ["italic"]}
 # "comment.line" = ""
 # "comment.block" = ""
 # "comment.block.documenation" = ""
@@ -99,7 +99,7 @@
 
 "label" = "foam"
 
-"punctuation" = "subtle"
+"punctuation" = "subtle_high"
 # "punctuation.delimiter" = ""
 # "punctuation.bracket" = ""
 # "punctuation.special" = ""
@@ -170,7 +170,9 @@ base           = "#191724"
 surface        = "#1f1d2e" 
 overlay        = "#26233a"
 muted          = "#6e6a86"
+muted_low      = "#58556d"
 subtle         = "#908caa"
+subtle_high    = "#a09dc5"
 text           = "#e0def4"
 love           = "#eb6f92"
 love_10        = "#311f30"
