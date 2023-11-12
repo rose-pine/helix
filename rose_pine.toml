@@ -71,8 +71,8 @@
 "constructor" = "foam"
 
 "constant" = "foam"
-"constant.builtin" = "rose"
-# "constant.builtin.boolean" = ""
+"constant.builtin" = "love"
+"constant.builtin.boolean" = "rose"
 "constant.character" = "gold"
 "constant.character.escape" = "pine"
 "constant.numeric" = "gold"
@@ -95,7 +95,7 @@
 "variable.builtin" = "love"
 "variable.parameter" = "iris"
 # "variable.other" = ""
-# "variable.other.member" = ""
+"variable.other.member" = "foam"
 
 "label" = "foam"
 
@@ -128,7 +128,7 @@
 
 "tag" = "foam"
 
-"namespace" = "iris"
+"namespace" = "text"
 
 "markup.heading.marker" = "muted"
 "markup.heading" = { fg = "iris", modifiers = ["bold"] }
