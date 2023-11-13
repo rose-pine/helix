@@ -18,8 +18,8 @@
 "ui.linenr" = { fg = "muted" }
 "ui.linenr.selected" = { fg = "text" }
 
-"ui.bufferline" = {fg = "muted", bg = "base"}
-"ui.bufferline.active" = {fg = "text", bg = "overlay"}
+"ui.bufferline" = { fg = "muted", bg = "base" }
+"ui.bufferline.active" = { fg = "text", bg = "overlay" }
 "ui.statusline" = { fg = "subtle", bg = "surface" }
 "ui.statusline.inactive" = { fg = "muted", bg = "surface" }
 "ui.statusline.normal" = { fg = "rose", bg = "rose_10" }
