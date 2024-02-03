@@ -151,7 +151,7 @@
 "markup.link" = "iris"
 "markup.link.url" = { fg = "iris", underline = { color = "iris", style = "line" } }
 "markup.link.label" = "subtle"
-"markup.link.text" = "text"
+"markup.link.text" = "foam"
 "markup.quote" = "subtle"
 "markup.raw" = "subtle"
 # "markup.raw.inline" = {}
