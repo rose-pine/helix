@@ -28,6 +28,15 @@ Or preview for your current session:
 :theme rose_pine<_moon,_dawn>
 ```
 
+**Manual**
+
+Clone the themes locally:
+
+```sh
+mkdir -p $XDG_CONFIG_HOME/helix/themes
+git clone https://github.com/rose-pine/helix.git $XDG_CONFIG_HOME/helix/themes/
+```
+
 ## Gallery
 
 **Rosé Pine**
