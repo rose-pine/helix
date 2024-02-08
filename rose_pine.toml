@@ -154,10 +154,10 @@
 "markup.link.text" = "foam"
 "markup.quote" = "subtle"
 "markup.raw" = "subtle"
-# "markup.raw.inline" = {}
+"markup.raw.inline" = "gold"
 # "markup.raw.inline.completion" = {}
 # "markup.raw.inline.hover" = {}
-# "markup.raw.block" = {}
+"markup.raw.block" = "gold"
 # "markup.normal" = ""
 # "markup.normal.completion" = ""
 # "markup.normal.hover" = ""
