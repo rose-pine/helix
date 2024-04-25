@@ -30,6 +30,8 @@
 "ui.popup" = { bg = "surface" }
 "ui.popup.info" = { bg = "surface" }
 
+"ui.picker.header" = { fg = "iris", modifiers = ["bold"] }
+
 "ui.window" = { fg = "overlay", bg = "base" }
 "ui.help" = { fg = "subtle", bg = "overlay" }
 
