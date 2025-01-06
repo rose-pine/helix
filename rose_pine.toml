@@ -89,7 +89,7 @@
 # "string.special" = ""
 # "string.special.path" = ""
 # "string.special.url" = ""
-# "string.special.symbol" = ""
+"string.special.symbol" = "iris"
 
 "comment" = { fg = "muted", modifiers = ["italic"] }
 # "comment.line" = ""
