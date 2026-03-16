@@ -28,7 +28,6 @@
 # "ui.statusline.separator" = {}
 
 "ui.popup" = { fg = "text", bg = "surface" }
-"ui.popup.info" = { fg = "text", bg = "surface" }
 
 "ui.picker.header" = { fg = "iris", modifiers = ["bold"] }
 
