@@ -125,7 +125,7 @@
 "operator" = "subtle"
 
 "function" = "rose"         # maybe pine
-# "function.builtin" = ""
+"function.builtin" = { fg = "rose", modifiers = ["bold"] }
 # "function.method" = ""
 # "function.macro" = ""
 # "function.special" = ""
