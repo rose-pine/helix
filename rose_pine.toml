@@ -48,8 +48,7 @@
 "ui.menu.selected" = { fg = "text" }
 "ui.menu.scroll" = { fg = "muted", bg = "highlight_med" }
 
-"ui.selection" = { bg = "overlay" }
-"ui.selection.primary" = { bg = "highlight_med" }
+"ui.selection" = { fg = "base", bg = "iris" }
 
 "ui.cursorline.primary" = { bg = "highlight_low" }
 "ui.cursorline.secondary" = { bg = "surface" }
