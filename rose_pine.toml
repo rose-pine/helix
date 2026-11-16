@@ -43,6 +43,7 @@
 "ui.virtual.whitespace" = { fg = "highlight_high" }
 "ui.virtual.indent-guide" = { fg = "muted" }
 "ui.virtual.inlay-hint" = { fg = "subtle" }
+"ui.virtual.wrap" = { fg = "highlight_med" }
 
 "ui.menu" = { fg = "subtle", bg = "surface" }
 "ui.menu.selected" = { fg = "text" }
